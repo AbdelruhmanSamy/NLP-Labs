@@ -1,0 +1,47 @@
+
+Student 1: Abdelruhman Sami Mohamad
+Student 2: Abdullah Salah
+
+Q1:
+
+Number of unique words (Vocab size)
+
+
+Q2:
+
+The length of each word embedding: vector of length 300
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes
+
+
+Q4:
+
+Yes, as it's a value near to 1, meaning that the angle between Egypt and Cairo is not large, which means that they're related
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+- The plot shows that words having related meaning are plot near each other,
+where sentiment words (happy, sad, joyful) are very near to each other and 
+far from other words
+- as words got more related, they're plotted near to each other
+- The axes don't represent a real feature as they're result of PCA dimension reduction,
+so they're meaningless
+
